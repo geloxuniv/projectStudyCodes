@@ -1,3 +1,18 @@
+/*
+code references
+coin hopper: https://www.youtube.com/watch?v=cVjwFrIEgso
+
+weight sensor/hx711: https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
+https://youtu.be/pZpzdu97JYw
+
+Servo: use servo.h library documentation
+
+arduino to python serial communication (vice versa):
+https://www.instructables.com/id/Sending-Data-From-Arduino-to-Python-Via-USB/
+https://realpython.com/arduino-python/
+*/
+
+
 format: 
 
 module/sensor -> arduino pin
@@ -8,7 +23,7 @@ PC817:
 
 
 
-HX711
+=HX711:
 
 
 
