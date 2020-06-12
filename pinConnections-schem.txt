@@ -1,0 +1,25 @@
+format: 
+
+module/sensor -> arduino pin
+
+PC817:
+
+
+
+
+
+HX711
+
+
+
+
+
+
+
+Servos:
+
+
+
+
+
+Coin Hopper:
